@@ -4,4 +4,4 @@
 "infol":"အသက်18နှစ်ပြည့်ပီးသူတိုင်း မဖြစ်မနေ တတ်ထားသင့်တဲ့ သိုင်းကြမ်းပေါင်းစုံကို blue tv တွင်လေ့လာသင်ယူပါ",
 "downloader":"148796",
 "playstore":"https://play.google.com/store/apps/details?id=com.bluetvpro.hz",
-"directlink":"https://www.mediafire.com/file/2kchq51kvaqlab6/Blue+TV_7.1.apk/file"}]
+"directlink":"https://www.mediafire.com/file/11oxej19uhumwwv/Blue+TV+PRO_8.0.apk/file"}]
